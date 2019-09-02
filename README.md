@@ -1,2 +1,2 @@
 # Zilong
-Linux and Windows diretory contian standalone executable files 
+Linux and Windows diretories contian standalone executable files 
